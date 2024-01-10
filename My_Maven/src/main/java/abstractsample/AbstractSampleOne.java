@@ -8,5 +8,6 @@ public abstract void print(); //abstract method
 public void display() {
 	
 	System.out.println("This is non abstract method");
+	System.out.println("Added to repo");
 }
 }

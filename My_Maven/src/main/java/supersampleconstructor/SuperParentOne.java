@@ -3,7 +3,7 @@ package supersampleconstructor;
 public class SuperParentOne {
 
 	public SuperParentOne(int a) {
-		
-		System.out.println(a);
+		int b =20;
+		System.out.println(a+b);
 	}
 }

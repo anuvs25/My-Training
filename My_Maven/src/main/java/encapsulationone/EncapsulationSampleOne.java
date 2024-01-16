@@ -9,7 +9,6 @@ public class EncapsulationSampleOne {
 		ob.setter("Arya",25);
 		ob.getter();
 		
-
 	}
 
 }

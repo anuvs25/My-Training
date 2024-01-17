@@ -7,7 +7,7 @@ public class ChildClass extends ParentClass {
 	@Override
 	public void display() {
 		System.out.println("Child Class");
-		//super.display(); to display parent class o/p
+		//super.display(); //to display parent class o/p
 		//b=50; // we can't change the value final keyword
 	}
 
